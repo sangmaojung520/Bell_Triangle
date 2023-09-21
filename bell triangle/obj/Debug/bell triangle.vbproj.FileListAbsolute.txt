@@ -1,0 +1,22 @@
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.vbprojAssemblyReference.cache
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell_triangle.Resources.resources
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.vbproj.GenerateResource.cache
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.vbproj.CoreCompileInputs.cache
+C:\Users\T480s\source\repos\bell triangle\bell triangle\bin\Debug\bell triangle.exe.config
+C:\Users\T480s\source\repos\bell triangle\bell triangle\bin\Debug\bell triangle.exe
+C:\Users\T480s\source\repos\bell triangle\bell triangle\bin\Debug\bell triangle.pdb
+C:\Users\T480s\source\repos\bell triangle\bell triangle\bin\Debug\bell triangle.xml
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.exe
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.xml
+C:\Users\T480s\source\repos\bell triangle\bell triangle\obj\Debug\bell triangle.pdb
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\bin\Debug\bell triangle.exe.config
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\bin\Debug\bell triangle.exe
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\bin\Debug\bell triangle.pdb
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\bin\Debug\bell triangle.xml
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.vbprojAssemblyReference.cache
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell_triangle.Resources.resources
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.vbproj.GenerateResource.cache
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.vbproj.CoreCompileInputs.cache
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.exe
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.xml
+C:\Users\T480s\Desktop\Visual Basic\bell triangle\bell triangle\obj\Debug\bell triangle.pdb
